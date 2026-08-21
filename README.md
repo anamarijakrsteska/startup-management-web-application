@@ -45,8 +45,8 @@ A Spring Boot web application for managing startups.
 * `/startups` — Startup list with filtering and pagination
 * `/startups/add` — Add startup
 * `/startups/edit/{id}` — Edit startup
-* /startups/delete/{id} - Delete startup
-* /startups/deactivate/{id} - Deactivate startup
+* `/startups/delete/{id}` - Delete startup
+* `/startups/deactivate/{id}` - Deactivate startup
 * `/login` — Login
 * `/logout` — Logout
 
